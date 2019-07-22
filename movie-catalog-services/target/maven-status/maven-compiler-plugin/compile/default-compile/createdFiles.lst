@@ -1,0 +1,5 @@
+com/faiz/moviecatalogservices/model/Movie.class
+com/faiz/moviecatalogservices/model/Rating.class
+com/faiz/moviecatalogservices/model/CatalogItem.class
+com/faiz/moviecatalogservices/MovieCatalogServicesApplication.class
+com/faiz/moviecatalogservices/controller/MovieCatalogController.class
