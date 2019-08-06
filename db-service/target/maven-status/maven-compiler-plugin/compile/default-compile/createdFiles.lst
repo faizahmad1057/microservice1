@@ -1,0 +1,4 @@
+com/faiz/stock/dbservice/controller/DbServiceController.class
+com/faiz/stock/dbservice/repository/QuotesRepository.class
+com/faiz/stock/dbservice/DbServiceApplication.class
+com/faiz/stock/dbservice/model/Quote.class
